@@ -1,5 +1,11 @@
+/*
 const request = new XMLHttpRequest();
 
-request.open('GET', 'https://jsonplaceholder.typicode.com/todos/');
-request.send();
+request.open('GET', 'https://jsonplaceholder.typicode.com/todos/'); // API endpoint
+request.send(); 
+*/
+
+
+
+
 
